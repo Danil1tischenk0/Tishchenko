@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "(CodeStart)",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
